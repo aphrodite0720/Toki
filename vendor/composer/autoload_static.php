@@ -40,8 +40,8 @@ class ComposerStaticInit8317d6fd0cf65659289bc804b54745ae
         'phpDocumentor\\Reflection\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
-            1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
-            2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
+            1 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
+            2 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
         ),
         'Webmozart\\Assert\\' => 
         array (
@@ -83,6 +83,7 @@ class ComposerStaticInit8317d6fd0cf65659289bc804b54745ae
         'CoinpaymentsAPI' => __DIR__ . '/..' . '/coinpaymentsnet/coinpayments-php/src/CoinpaymentsAPI.php',
         'CoinpaymentsCurlRequest' => __DIR__ . '/..' . '/coinpaymentsnet/coinpayments-php/src/CoinpaymentsCurlRequest.php',
         'CoinpaymentsValidator' => __DIR__ . '/..' . '/coinpaymentsnet/coinpayments-php/src/CoinpaymentsValidator.php',
+        'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'File_Iterator' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Iterator.php',
         'File_Iterator_Facade' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Facade.php',
         'File_Iterator_Factory' => __DIR__ . '/..' . '/phpunit/php-file-iterator/src/Factory.php',

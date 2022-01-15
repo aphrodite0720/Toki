@@ -9,6 +9,7 @@ return array(
     'CoinpaymentsAPI' => $vendorDir . '/coinpaymentsnet/coinpayments-php/src/CoinpaymentsAPI.php',
     'CoinpaymentsCurlRequest' => $vendorDir . '/coinpaymentsnet/coinpayments-php/src/CoinpaymentsCurlRequest.php',
     'CoinpaymentsValidator' => $vendorDir . '/coinpaymentsnet/coinpayments-php/src/CoinpaymentsValidator.php',
+    'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'File_Iterator' => $vendorDir . '/phpunit/php-file-iterator/src/Iterator.php',
     'File_Iterator_Facade' => $vendorDir . '/phpunit/php-file-iterator/src/Facade.php',
     'File_Iterator_Factory' => $vendorDir . '/phpunit/php-file-iterator/src/Factory.php',
